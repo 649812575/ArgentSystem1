@@ -69,7 +69,7 @@
 					</td>
 				</tr>
 				<tr>
-					<td>密码第二次:</td>
+					<td>密码第三次:</td>
 					<td><input type="password" id="password" name="password" value="456"
 						class="easyui-validatebox" required="true" style="width: 200px" />
 					</td>
