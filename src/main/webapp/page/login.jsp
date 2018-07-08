@@ -63,13 +63,13 @@
 					<th colspan="2" style="padding-bottom: 10px"><big>用户登录</big></th>
 				</tr>
 				<tr>
-					<td>用户名</td>
+					<td>用户名：</td>
 					<td><input type="text" id="userName" name="userName" value="cmy"
 						class="easyui-validatebox" required="true" style="width: 200px" />
 					</td>
 				</tr>
 				<tr>
-					<td>密码:</td>
+					<td>密码第二次:</td>
 					<td><input type="password" id="password" name="password" value="456"
 						class="easyui-validatebox" required="true" style="width: 200px" />
 					</td>
